@@ -1,7 +1,7 @@
 ## 👋 Olá, sou Micael Duarte 
-##### Eu sou um entusiasta de programação em busca constante de aprendizado e crescimento no universo do desenvolvimento full stack. Atualmente, estou mergulhado no mundo da programação na Infinity School<img align="center" alt="infinityschool" width="25px" src="https://gist.githubusercontent.com/micaeldn/6e3d00a029eb7c6d6038ecb800816366/raw/59f062eefa830eb7be307826d0accab79bd594c5/unifor.svg" />, onde estudo linguagens como Python 🐍, Flask, HTML e CSS avançado, além de me aprofundar em JavaScript.
+##### Eu sou um entusiasta de programação em busca constante de aprendizado e crescimento no universo do desenvolvimento full stack. Atualmente, estou mergulhado no mundo da programação na Infinity School<img align="center" alt="infinityschool" width="25px" src="https://gist.githubusercontent.com/micaeldevfs/6e3d00a029eb7c6d6038ecb800816366/raw/59f062eefa830eb7be307826d0accab79bd594c5/unifor.svg" />, onde estudo linguagens como Python 🐍, Flask, HTML e CSS avançado, além de me aprofundar em JavaScript.
 
-##### 🎓 Além disso, estou cursando Análise e Desenvolvimento de Sistemas na Universidade(Unifor)<img align="center" src="https://gist.githubusercontent.com/micaeldn/6e3d00a029eb7c6d6038ecb800816366/raw/dcfbcf7f0a266dda930b097b99c9381489bdfbda/unifor.svg" width="25px" alt="unifor" style="border-radius: 5px; border: 1px solid #ccc; padding: 1px;">, onde aprimoro meus conhecimentos teóricos e práticos para enfrentar os desafios da área de TI.
+##### 🎓 Além disso, estou cursando Análise e Desenvolvimento de Sistemas na Universidade(Unifor)<img align="center" src="https://gist.githubusercontent.com/micaeldevfs/6e3d00a029eb7c6d6038ecb800816366/raw/dcfbcf7f0a266dda930b097b99c9381489bdfbda/unifor.svg" width="25px" alt="unifor" style="border-radius: 5px; border: 1px solid #ccc; padding: 1px;">, onde aprimoro meus conhecimentos teóricos e práticos para enfrentar os desafios da área de TI.
 
 ##### 💡 Sou apaixonado por resolver problemas e encontrar soluções inovadoras. Minha mentalidade proativa me impulsiona a sempre buscar novos desafios e aprender coisas novas. Acredito que o aprendizado contínuo é a chave para acompanhar o ritmo acelerado da tecnologia.
 
@@ -13,7 +13,7 @@
 
 </div>
 
-![Micaeldn GitHub stats](https://github-readme-stats.vercel.app/api?username=micaeldn&show_icons=true&theme=dracula&count_private=true)
+![micaeldevfs GitHub stats](https://github-readme-stats.vercel.app/api?username=micaeldevfs&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que estou aprendendo atualmente no curso de programação da Infinity School
 
