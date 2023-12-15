@@ -1,4 +1,4 @@
-## 👋 Olá, sou Micael Duarte /- [Portfólio](micaeldevfs.github.io/Portif-lio/)
+## 👋 Olá, sou Micael Duarte / [Portfólio](micaeldevfs.github.io/Portif-lio/)
 ##### Eu sou um entusiasta de programação em busca constante de aprendizado e crescimento no universo do desenvolvimento full stack. Atualmente, estou mergulhado no mundo da programação na Infinity School<img align="center" alt="infinityschool" width="25px" src="https://gist.githubusercontent.com/Micaeldevfs/22cba8fb7cd7fc9afd5fbbf0619cf8e4/raw/fa10cc3577f7c872f9b4d8091550724ca2cb78ff/infinityschool.svg" />, onde estudo linguagens como Python 🐍, Flask, HTML e CSS avançado, além de me aprofundar em JavaScript.
 
 ##### 🎓 Além disso, estou cursando Análise e Desenvolvimento de Sistemas na Universidade(Unifor)<img align="center" src="https://gist.githubusercontent.com/Micaeldevfs/22cba8fb7cd7fc9afd5fbbf0619cf8e4/raw/fa10cc3577f7c872f9b4d8091550724ca2cb78ff/unifor.svg" width="25px" alt="unifor" style="border-radius: 5px; border: 1px solid #ccc; padding: 1px;">, onde aprimoro meus conhecimentos teóricos e práticos para enfrentar os desafios da área de TI.
